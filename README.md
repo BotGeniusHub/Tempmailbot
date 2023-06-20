@@ -42,5 +42,10 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
 2. Run command:
     
   ```bash
-  python3 bot.py
-  
+   python3 bot.py
+  ```
+## Community
+
+Join our Telegram group for discussions, updates, and support:
+
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue.svg)](https://t.me/MissCamelliaUpdate)
