@@ -1,6 +1,23 @@
+<p align="center">
+  <img src="path/to/your/logo.png" alt="Temp Mail Bot Logo" width="200" height="200">
+</p>
+
 # Temp Mail Bot
 
-Temp Mail Bot is a Telegram bot that provides temporary email addresses using the 1secmail API. With this bot, users can generate temporary email addresses, check their inbox, and delete emails.
+> A Telegram bot that provides temporary email addresses using the 1secmail API.
+
+[![License](https://img.shields.io/github/license/your-username/temp-mail-bot)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
+
+<p align="center">
+  <img src="path/to/your/screenshot.png" alt="Temp Mail Bot Screenshot" width="500">
+</p>
+
+## Features
+
+- Generate temporary email addresses
+- Check inbox for received emails
+- Delete specific emails from the inbox
 
 ## Prerequisites
 
@@ -15,7 +32,5 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PyroUserBot/Tempmailbot.git
+   git clone https://github.com/your-username/temp-mail-bot.git
    cd temp-mail-bot
-   python3 bot.py
-
