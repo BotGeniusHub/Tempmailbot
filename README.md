@@ -21,12 +21,12 @@
 
 ## Prerequisites
 
-- Python 3.6 or higher
-- `python-telegram-bot` library
-- 1secmail API access (API key or endpoint URL)
+- `Python 3.6` or higher
+- `pyrogram` library
+- `1secmail API access` (API key or endpoint URL)
 
 ## Heroku deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy=https://github.com/PyroUserBot/Tempmailbot)
 
 ## Getting Started
 
