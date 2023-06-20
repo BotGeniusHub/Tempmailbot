@@ -15,7 +15,7 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/temp-mail-bot.git
+   git clone https://github.com/PyroUserBot/Tempmailbot.git
    cd temp-mail-bot
    python3 bot.py
 
