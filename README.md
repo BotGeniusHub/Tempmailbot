@@ -25,6 +25,9 @@
 - `python-telegram-bot` library
 - 1secmail API access (API key or endpoint URL)
 
+## Heroku deployment
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Getting Started
 
 To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
@@ -41,5 +44,3 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
   ```bash
   python3 bot.py
   
- ## Heroku deployment
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
