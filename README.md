@@ -6,7 +6,7 @@
 
 > A Telegram bot that provides temporary email addresses using the 1secmail API.
 
-[![License](https://img.shields.io/github/license/your-username/temp-mail-bot)](LICENSE)
+[![License](https://img.shields.io/github/license/PyroUserBot/Tempmailbot)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 
 <p align="center">
