@@ -4,7 +4,7 @@ from telegram.ext import CommandHandler, CallbackQueryHandler, Updater
 from config import TELEGRAM_TOKEN
 
 def main():
-    updater = Updater(token=TELEGRAM_TOKEN, use_context=True)
+    updater = Updater(token="5992274138:AAGNoQ5XDjO_1j3V7xplNAusU0iSYojaNec", use_context=True)
 
 def start(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to the TempMailBot!")
@@ -74,7 +74,7 @@ def button_callback(update, context):
 
 
 def main():
-    updater = Updater(token=os.environ.get("TELEGRAM_TOKEN"), use_context=True)
+    updater = Updater(token=os.environ.get("5992274138:AAGNoQ5XDjO_1j3V7xplNAusU0iSYojaNec"), use_context=True)
     dispatcher = updater.dispatcher
 
     start_handler = CommandHandler('start', start)
