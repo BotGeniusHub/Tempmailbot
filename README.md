@@ -44,6 +44,11 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
   ```bash
    python3 bot.py
   ```
+
+## Pyrogram documentation
+
+[![Pyrogram Logo](https://path/to/your/pyrogram_logo.png)](https://docs.pyrogram.org/)
+
 ## Community
 
 Join our Telegram group for discussions, updates, and support:
