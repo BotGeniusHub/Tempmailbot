@@ -32,5 +32,14 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/temp-mail-bot.git
-   cd temp-mail-bot
+   git clone https://github.com/PyroUserBot/tempmailbot.git
+   cd Tempmailbot
+   pip3 install -r requirements.txt
+
+2. Run command:
+    
+  ```bash
+  python3 bot.py
+  
+ ## Heroku deployment
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
