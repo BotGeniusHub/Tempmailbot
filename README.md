@@ -10,7 +10,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 
 <p align="center">
-  <img src="https://graph.org/file/871ee5aaabf6edf64f668.jpg" alt="Temp Mail Bot Screenshot" width="500">
+  <img src="https://graph.org/file/871ee5aaabf6edf64f668.jpg" alt="Temp Mail Bot Screenshot" width="300">
 </p>
 
 ## Features
