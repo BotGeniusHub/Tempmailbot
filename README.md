@@ -5,7 +5,8 @@
 </p>
 
 <p align="center"> Repository Stats </p>
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PyroUserBot&repo=Tempmailbot&theme=dark)
+
+![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=PyroUserBot&repo=Tempmailbot&theme=dark)
 
 # Temp Mail Bot
 > A Telegram bot that provides temporary email addresses using the 1secmail API.
