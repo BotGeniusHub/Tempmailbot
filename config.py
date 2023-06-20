@@ -1,1 +1,1 @@
-TELEGRAM_TOKEN = "your-telegram-token"
+TELEGRAM_TOKEN = "5992274138:AAGNoQ5XDjO_1j3V7xplNAusU0iSYojaNec"
