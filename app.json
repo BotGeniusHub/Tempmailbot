@@ -3,14 +3,20 @@
   "description": "Telegram bot for temporary email addresses",
   "repository": "https://github.com/PyroUserBot/Tempmailbot",
   "keywords": ["telegram", "bot"],
-
   "env": {
-    "TELEGRAM_TOKEN": {
+    "API_ID": {
+      "description": "API ID for accessing the Telegram API",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "API Hash for accessing the Telegram API",
+      "required": true
+    },
+    "BOT_TOKEN": {
       "description": "Token for accessing the Telegram Bot API",
       "required": true
     }
   },
-  
   "buildpacks": [
     {
       "url": "heroku/python"
@@ -26,4 +32,3 @@
     }
   }
 }
-
