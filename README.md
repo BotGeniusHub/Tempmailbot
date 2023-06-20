@@ -8,14 +8,14 @@
 
 <p align="center">
   
-![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=PyroUserBot&repo=Tempmailbot&theme=dark)
+![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=BotGeniusHub&repo=Tempmailbot&theme=dark)
 
 </p>
 
 # Temp Mail Bot
 > A Telegram bot that provides temporary email addresses using the 1secmail API.
 
-[![License](https://img.shields.io/github/license/PyroUserBot/Tempmailbot)](LICENSE)
+[![License](https://img.shields.io/github/license/BotGeniusHub/Tempmailbot)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 
 <p align="center">
@@ -56,10 +56,10 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
 
 ## Pyrogram documentation
 
-[<img src="https://graph.org/file/4f0add4c7227875add0d8.jpg" alt="Pyrogram Logo" width="150">](https://docs.pyrogram.org/)
+[<img src="https://graph.org/file/4f0add4c7227875add0d8.jpg" alt="Pyrogram Logo" width="100">](https://docs.pyrogram.org/)
 
 ## Community
 
 Join our Telegram group for discussions, updates, and support:
 
-[![Telegram](https://img.shields.io/badge/Join-Telegram-blue.svg)](https://t.me/MissCamelliaUpdate)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue.svg)](https://t.me/BotGeniusHub)
