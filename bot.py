@@ -1,4 +1,4 @@
-import requests
+import os
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import CommandHandler, CallbackQueryHandler, Updater
 
@@ -71,7 +71,7 @@ def button_callback(update, context):
 
 
 def main():
-    updater = Updater(token="6206599982:AAHJlIHxPWqMTpRP4iMvGb0I0pcOf_o-nG8", use_context=True)
+    updater = Updater(token=os.environ.get("TELEGRAM_TOKEN"), use_context=True)
     dispatcher = updater.dispatcher
 
     start_handler = CommandHandler('start', start)
