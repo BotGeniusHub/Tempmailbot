@@ -35,7 +35,7 @@
 - `1secmail API access` (API key or endpoint URL)
 
 ## Heroku deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy=https://github.com/PyroUserBot/Tempmailbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BotGeniusHub/Tempmailbot)
 
 ## Getting Started
 
