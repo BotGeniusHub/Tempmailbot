@@ -1,13 +1,13 @@
 <p align="center"> TempMail Bot </p>
+
+<palign="center">
   <img src="https://graph.org/file/aeb0ba3ac025d1cb869f3.jpg" alt="Temp Mail Bot Logo" width="200" height="200">
 </p>
 
-
 <p align="center"> Repository Stats </p>
-
-
+<p align="center">
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PyroUserBot&repo=Tempmailbot&theme=dark)
-
+</p>
 # Temp Mail Bot
 
 > A Telegram bot that provides temporary email addresses using the 1secmail API.
