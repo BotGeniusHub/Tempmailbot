@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[path/to/your/logo.png](https://graph.org/file/aeb0ba3ac025d1cb869f3.jpg)" alt="Temp Mail Bot Logo" width="200" height="200">
+  <img src="https://graph.org/file/aeb0ba3ac025d1cb869f3.jpg" alt="Temp Mail Bot Logo" width="200" height="200">
 </p>
 
 # Temp Mail Bot
