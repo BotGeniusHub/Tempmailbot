@@ -1,6 +1,12 @@
-<p align="center">
+<p align="center"> TempMail Bot </p>
   <img src="https://graph.org/file/aeb0ba3ac025d1cb869f3.jpg" alt="Temp Mail Bot Logo" width="200" height="200">
 </p>
+
+
+<p align="center"> Repository Stats </p>
+
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PyroUserBot&repo=Tempmailbot&theme=dark)
 
 # Temp Mail Bot
 
