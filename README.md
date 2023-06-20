@@ -47,7 +47,7 @@ To use the Temp Mail Bot locally or deploy it on a server, follow these steps:
 
 ## Pyrogram documentation
 
-[![Pyrogram Logo](https://graph.org/file/4f0add4c7227875add0d8.jpg)](https://docs.pyrogram.org/)
+[<img src="https://graph.org/file/4f0add4c7227875add0d8.jpg" alt="Pyrogram Logo" width="200">](https://docs.pyrogram.org/)
 
 ## Community
 
