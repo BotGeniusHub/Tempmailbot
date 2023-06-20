@@ -1,10 +1,10 @@
 import os
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import CommandHandler, CallbackQueryHandler, Updater
-
+from config import TELEGRAM_TOKEN
 
 def start(update, context):
-    context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to the Temp Mail Bot!")
+    context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to the TempMailBot!")
 
 
 def help(update, context):
